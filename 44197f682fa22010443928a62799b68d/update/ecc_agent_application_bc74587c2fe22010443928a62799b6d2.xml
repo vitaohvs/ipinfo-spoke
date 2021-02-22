@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ecc_agent_application">
+    <ecc_agent_application action="INSERT_OR_UPDATE">
+        <default_mid_server/>
+        <included_in_app_all>true</included_in_app_all>
+        <name>Teste MID Server</name>
+        <sys_class_name>ecc_agent_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-22 19:22:46</sys_created_on>
+        <sys_id>bc74587c2fe22010443928a62799b6d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Teste MID Server</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_572855_ipinfo_sp">44197f682fa22010443928a62799b68d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">44197f682fa22010443928a62799b68d</sys_scope>
+        <sys_update_name>ecc_agent_application_bc74587c2fe22010443928a62799b6d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-22 19:22:46</sys_updated_on>
+    </ecc_agent_application>
+</record_update>
